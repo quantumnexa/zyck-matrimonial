@@ -8,7 +8,7 @@ export default function HeroSection() {
       <div
         className="absolute inset-0 opacity-60 bg-cover bg-center"
         style={{
-          backgroundImage: "url(/images/wedding-couple-hero-3.jpg)",
+          backgroundImage: "url(/images/wedding-couple-hero-4.jpg)",
         }}
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/30 to-transparent" />
